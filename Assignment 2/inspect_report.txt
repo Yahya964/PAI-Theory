@@ -1,0 +1,12 @@
+Column: PassengerId | Data Type: int64 | Missing Values: 0 | Missing %: 0.0%
+Column: Survived | Data Type: int64 | Missing Values: 0 | Missing %: 0.0%
+Column: Pclass | Data Type: int64 | Missing Values: 0 | Missing %: 0.0%
+Column: Name | Data Type: object | Missing Values: 0 | Missing %: 0.0%
+Column: Sex | Data Type: object | Missing Values: 0 | Missing %: 0.0%
+Column: Age | Data Type: float64 | Missing Values: 177 | Missing %: 19.87%
+Column: SibSp | Data Type: int64 | Missing Values: 0 | Missing %: 0.0%
+Column: Parch | Data Type: int64 | Missing Values: 0 | Missing %: 0.0%
+Column: Ticket | Data Type: object | Missing Values: 0 | Missing %: 0.0%
+Column: Fare | Data Type: float64 | Missing Values: 0 | Missing %: 0.0%
+Column: Cabin | Data Type: object | Missing Values: 687 | Missing %: 77.1%
+Column: Embarked | Data Type: object | Missing Values: 2 | Missing %: 0.22%
