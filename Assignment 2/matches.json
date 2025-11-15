@@ -1,0 +1,288 @@
+{
+    "apikey": "7e64cac0-7f85-4131-a835-a065956a0482",
+    "data": [
+        {
+            "id": "e35f8bd6-36f8-4cf4-b736-6a74fa5cf34c",
+            "name": "Pakistan vs South Africa, 2nd Test",
+            "matchType": "test",
+            "status": "Day 3: Lunch Break - South Africa trail by 48 runs",
+            "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
+            "date": "2025-10-20",
+            "dateTimeGMT": "2025-10-20T04:30:00",
+            "teams": [
+                "Pakistan",
+                "South Africa"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Pakistan",
+                    "shortname": "PAK",
+                    "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+                },
+                {
+                    "name": "South Africa",
+                    "shortname": "RSA",
+                    "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 333,
+                    "w": 10,
+                    "o": 113.4,
+                    "inning": "Pakistan Inning 1"
+                },
+                {
+                    "r": 285,
+                    "w": 8,
+                    "o": 94,
+                    "inning": "South Africa Inning 1"
+                }
+            ],
+            "series_id": "6dbe4015-9930-44cd-ac38-7107c8342834",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        },
+        {
+            "id": "21496b85-f00c-4ae1-b345-986b3e61966a",
+            "name": "Zimbabwe vs Afghanistan, One-off Test",
+            "matchType": "test",
+            "status": "Day 2: Stumps - Afghanistan trail by 198 runs",
+            "venue": "Harare Sports Club, Harare",
+            "date": "2025-10-20",
+            "dateTimeGMT": "2025-10-20T08:00:00",
+            "teams": [
+                "Zimbabwe",
+                "Afghanistan"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Afghanistan",
+                    "shortname": "AFG",
+                    "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+                },
+                {
+                    "name": "Zimbabwe",
+                    "shortname": "ZIM",
+                    "img": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 127,
+                    "w": 10,
+                    "o": 32.3,
+                    "inning": "Afghanistan Inning 1"
+                },
+                {
+                    "r": 359,
+                    "w": 10,
+                    "o": 103,
+                    "inning": "Zimbabwe Inning 1"
+                },
+                {
+                    "r": 34,
+                    "w": 1,
+                    "o": 12,
+                    "inning": "Afghanistan Inning 2"
+                }
+            ],
+            "series_id": "44159a47-99f5-4ed7-b394-8663be093a05",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        },
+        {
+            "id": "4988cc5d-d610-4bdc-9f26-d6a756d3b57d",
+            "name": "Western Province vs Dolphins, 13th Match",
+            "matchType": "test",
+            "status": "Day 1: Stumps - Dolphins opt to bowl",
+            "venue": "Newlands, Cape Town",
+            "date": "2025-10-21",
+            "dateTimeGMT": "2025-10-21T08:00:00",
+            "teams": [
+                "Western Province",
+                "Dolphins"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Dolphins",
+                    "shortname": "DOL",
+                    "img": "https://g.cricapi.com/iapi/20-637993514627926036.webp?w=48"
+                },
+                {
+                    "name": "Western Province",
+                    "shortname": "WPR",
+                    "img": "https://g.cricapi.com/iapi/104-637987555401464222.webp?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 324,
+                    "w": 6,
+                    "o": 95,
+                    "inning": "Western Province Inning 1"
+                }
+            ],
+            "series_id": "cd7b042c-8de3-49c6-a000-b082e2d4508d",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        },
+        {
+            "id": "76322b16-cc99-4b7a-a56b-f2687ff9da19",
+            "name": "Lions vs North West, 15th Match",
+            "matchType": "test",
+            "status": "Day 1: Stumps - North West trail by 216 runs",
+            "venue": "The Wanderers Stadium, Johannesburg",
+            "date": "2025-10-21",
+            "dateTimeGMT": "2025-10-21T08:00:00",
+            "teams": [
+                "Lions",
+                "North West"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Lions",
+                    "shortname": "LIONS",
+                    "img": "https://g.cricapi.com/iapi/43-638016114998237773.webp?w=48"
+                },
+                {
+                    "name": "North West",
+                    "shortname": "NWEST",
+                    "img": "https://g.cricapi.com/iapi/60-637991981808951763.webp?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 239,
+                    "w": 10,
+                    "o": 79.5,
+                    "inning": "Lions Inning 1"
+                },
+                {
+                    "r": 23,
+                    "w": 2,
+                    "o": 9,
+                    "inning": "North West Inning 1"
+                }
+            ],
+            "series_id": "cd7b042c-8de3-49c6-a000-b082e2d4508d",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        },
+        {
+            "id": "5543e876-5b70-464a-a515-b317cf4e51fb",
+            "name": "Titans vs Warriors, 16th Match",
+            "matchType": "test",
+            "status": "Day 1: Stumps - Titans trail by 236 runs",
+            "venue": "SuperSport Park, Centurion",
+            "date": "2025-10-21",
+            "dateTimeGMT": "2025-10-21T08:00:00",
+            "teams": [
+                "Titans",
+                "Warriors"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Titans",
+                    "shortname": "TITNS",
+                    "img": "https://g.cricapi.com/iapi/89-637987557693726758.webp?w=48"
+                },
+                {
+                    "name": "Warriors",
+                    "shortname": "WAR",
+                    "img": "https://g.cricapi.com/iapi/98-637987556857963180.webp?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 244,
+                    "w": 10,
+                    "o": 76.1,
+                    "inning": "Warriors Inning 1"
+                },
+                {
+                    "r": 8,
+                    "w": 0,
+                    "o": 5,
+                    "inning": "Titans Inning 1"
+                }
+            ],
+            "series_id": "cd7b042c-8de3-49c6-a000-b082e2d4508d",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        },
+        {
+            "id": "d81a57c2-6b74-48db-bee9-513ca52d5af1",
+            "name": "KwaZulu-Natal Inland vs Boland, 14th Match",
+            "matchType": "test",
+            "status": "Day 1: Stumps - Boland trail by 284 runs",
+            "venue": "City Oval, Pietermaritzburg",
+            "date": "2025-10-21",
+            "dateTimeGMT": "2025-10-21T07:00:00",
+            "teams": [
+                "KwaZulu-Natal Inland",
+                "Boland"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Boland",
+                    "shortname": "BL",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                },
+                {
+                    "name": "KwaZulu-Natal Inland",
+                    "shortname": "KZ",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "score": [
+                {
+                    "r": 298,
+                    "w": 10,
+                    "o": 94,
+                    "inning": "Boland Inning 1"
+                },
+                {
+                    "r": 14,
+                    "w": 0,
+                    "o": 2,
+                    "inning": "KwaZulu-Natal Inland Inning 1"
+                }
+            ],
+            "series_id": "cd7b042c-8de3-49c6-a000-b082e2d4508d",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        }
+    ],
+    "status": "success",
+    "info": {
+        "hitsToday": 2,
+        "hitsUsed": 1,
+        "hitsLimit": 100,
+        "credits": 0,
+        "server": 20,
+        "offsetRows": 0,
+        "totalRows": 6,
+        "queryTime": 22.0818,
+        "s": 0,
+        "cache": 0
+    }
+}
